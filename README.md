@@ -49,6 +49,30 @@ GRID
 Need for a comprehensive ‘Details Dashboard’ that provides aconsolidated view of all the essential information within our loan data. This details Dashboard aims to ffer a holistic snapshot of key loan-related metrics and data points enabling users to access critical information efficiently.
 
 Objective: The primary objective of the Details dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as one stop-solution for users seeking detailed insights into our loan portfolio, borrower profiles and loan performance.
+____________________________________________________________________________________________________________________________
+
+TOOLS USED
+
+EXCEL
+
+SQL-In this project i have put all sql queries in powerpoint file
+
+PowerBI-Time intelligence Functions,Filters,charts,cards,modeling,DAX
+
+_____________________________________________________________________________________________________________________________
+
+FILES
+
+SQL Queries-
+
+PowerBI file-
+
+PowerBi pdf-
+
+PowerBi pic-
+
+_____________________________________________________________________________________________________________________________
+
 
 
 
