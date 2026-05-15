@@ -65,7 +65,7 @@ FILES
 
 SQL Queries-
 
-PowerBI file-
+PowerBI file- https://github.com/Faustine-Munishi/Bank-Loan-Analysis/blob/main/PowerBi%20report.pbix
 
 PowerBi pdf-
 
