@@ -71,6 +71,7 @@ PowerBi pdf- https://github.com/Faustine-Munishi/Bank-Loan-Analysis/blob/main/pd
 
 PowerBi pic-
    1.DETAILS DASHBOARD-https://github.com/Faustine-Munishi/Bank-Loan-Analysis/blob/main/DETAILS.jpg
+   2.OVERVIEW DASHBOARD-https://github.com/Faustine-Munishi/Bank-Loan-Analysis/blob/main/OVERVIEW.jpg
 
 _____________________________________________________________________________________________________________________________
 
