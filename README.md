@@ -67,7 +67,7 @@ SQL Queries- https://github.com/Faustine-Munishi/Bank-Loan-Analysis/blob/main/SQ
 
 PowerBI file- https://github.com/Faustine-Munishi/Bank-Loan-Analysis/blob/main/PowerBi%20report.pbix
 
-PowerBi pdf-
+PowerBi pdf- https://github.com/Faustine-Munishi/Bank-Loan-Analysis/blob/main/pdf1.pdf
 
 PowerBi pic-
    1.DETAILS DASHBOARD-https://github.com/Faustine-Munishi/Bank-Loan-Analysis/blob/main/DETAILS.jpg
