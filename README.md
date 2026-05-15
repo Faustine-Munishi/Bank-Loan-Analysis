@@ -70,6 +70,7 @@ PowerBI file-
 PowerBi pdf-
 
 PowerBi pic-
+   1.DETAILS DASHBOARD-https://github.com/Faustine-Munishi/Bank-Loan-Analysis/blob/main/DETAILS.jpg
 
 _____________________________________________________________________________________________________________________________
 
